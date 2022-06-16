@@ -38,3 +38,8 @@ background-color: silver;
 .bronz{
 background-color: #b08d57;
 }
+img{
+    height: 20%;
+    width: 50%;
+    padding: 25%;
+}
